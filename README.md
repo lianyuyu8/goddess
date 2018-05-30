@@ -1,5 +1,5 @@
 # goddess
 
-goddess to learn gitHub
+goddess to learn gitHub.
 
-first step in GitHub
+
